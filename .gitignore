@@ -1,0 +1,8 @@
+template/模板/main.aux
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.synctex*
+*.pdf
